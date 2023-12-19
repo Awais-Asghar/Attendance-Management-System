@@ -39,4 +39,4 @@ This C++ program implements a simple Attendance Management System with both stud
 
 - Awais Asghar
 
-Feel free to modify and extend this code according to your needs. If you have any questions or suggestions, please contact the author.
+Feel free to modify and extend this code according to your needs. If you have any questions or suggestions, please contact me.
